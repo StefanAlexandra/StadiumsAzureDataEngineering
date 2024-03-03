@@ -6,7 +6,7 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 
 
 ## System Architecture
-![System_Architecture](System_Architecture.png)
+![System_Architecture](system_architecture.png)
 
 ## Requirements
 - Python 3.9 (minimum)
@@ -40,3 +40,7 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 2. Cleans the data.
 3. Transforms the data.
 4. Pushes the data to Azure Data Lake.
+
+## Azure 
+![Azure](Azure.png)
+
